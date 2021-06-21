@@ -18,5 +18,5 @@ Returns *"Owner 1 script_ing: replaced"*
 ### `reverse_format_Color3(c3string)`
 This function allows you to take a RichText formatted Color3 (which is a string that follows the pattern `rgb(r, g, b)`) and turn it into a lua type Color3 `Color3.new(r, g, b)`
 
-### `format_Color3(v)
+### `format_Color3(v)`
 This function converts a Color3 into a RichText compatible string 
